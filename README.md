@@ -10,7 +10,7 @@ In UTA Swarm, teams use strategic units with unique abilities and implement cust
 
 ## How to Win
 
-- **UnitCore:** Each team has a device called the unit core with 100 hp. If it is destroyed, the opposing team wins.
+- **Unit Core:** Each team has a device called the unit core with 100 hp. If it is destroyed, the opposing team wins.
 
 ## Unit Actions
 
