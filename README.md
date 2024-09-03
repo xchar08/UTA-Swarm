@@ -2,7 +2,7 @@
 
 ## Overview
 
-UTA Swarm is a strategic game where teams deploy units with unique abilities and implement custom Python APIs to tackle coding challenges. Manage resources, deploy units, and engage in tactical battles to outmaneuver your opponents.
+UTA Swarm is a strategic game where teams deploy units with unique abilities and implement a custom Python Library to tackle coding challenges. Manage resources, deploy units, and engage in tactical battles to outmaneuver your opponents.
 
 ## Resource Generation
 
